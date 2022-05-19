@@ -1,4 +1,5 @@
-document.write('<html>
+document.write('<!DOCTYPE html>
+<html>
                <head>
                <title>bEditor</title>
                </head>
