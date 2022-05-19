@@ -1,5 +1,4 @@
-document.write('
-               <html>
+document.write('<html>
                <head>
                <title>bEditor</title>
                </head>
@@ -8,9 +7,4 @@ document.write('
                <textarea style="background-color: black" placeholder="Enter HTML code here...."></textarea>
                <iframe></iframe>
                </body>
-               </html>
-               
-               
-               
-               
-');               
+               </html>');               
